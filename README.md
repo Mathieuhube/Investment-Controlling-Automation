@@ -1,4 +1,4 @@
-Investment Controlling: Portfolio Performance & Attribution
+Investment Controlling: Portfolio Performance & Attribution (A 30min mockup project)
 
 This Jupyter Notebook automates the process of performance tracking and return attribution for a multi-asset investment portfolio. 
 Instead of manual data entry, the tool pulls market data from yahoo finance to visualize how specific index exposures contribute to the overall portfolio's growth.
